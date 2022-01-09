@@ -19,7 +19,7 @@ I am Cat.
       `*-*   `*-*  `*-*'
 
 ```
-Art modified from design by [Blazej Kozlowski](https://www.asciiart.eu/animals/cats) 
+_Art modified from design by [Blazej Kozlowski](https://www.asciiart.eu/animals/cats)_
 
 <!---
 - 👋 Hi, I’m @stickpenguin
