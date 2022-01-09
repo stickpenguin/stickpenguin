@@ -1,6 +1,7 @@
 ### Welcome traveller! 😸
 
 I am Cat.
+
 ```
        _                        
        \ `*-.                    
@@ -17,9 +18,10 @@ I am Cat.
         ;  '  .   ;`-:     _.`* ;
  🐞   .*' /  .*' ; .*`- +'  `*' 
       `*-*   `*-*  `*-*'
-
 ```
+
 _Art modified from design by [Blazej Kozlowski](https://www.asciiart.eu/animals/cats)_
+
 
 <!---
 - 👋 Hi, I’m @stickpenguin
